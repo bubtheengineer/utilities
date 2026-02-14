@@ -4,7 +4,7 @@ set -e
 CONFIG_DIR="/etc/proxmox-scripts"
 INSTALL_DIR="/usr/local/bin"
 STATE_DIR="/var/tmp/disk-alerts"
-REPO_BASE="https://raw.githubusercontent.com/bubtheengineer/proxmox-scripts/main"
+REPO_BASE="https://raw.githubusercontent.com/bubtheengineer/utilities/refs/heads/main/proxmox-scripts"
 
 echo "══════════════════════════════════════"
 echo "  Proxmox Disk Monitor Setup"
