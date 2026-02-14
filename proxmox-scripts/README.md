@@ -8,7 +8,7 @@ containers. Sends Pushover alerts at configurable thresholds.
 ### Install
 
 ```bash
-bash -c "$(wget -qLO - https://raw.githubusercontent.com/bubtheengineer/proxmox-scripts/main/install/disk-monitor.sh)"
+bash -c "$(wget -qLO - https://raw.githubusercontent.com/bubtheengineer/utilities/refs/heads/main/proxmox-scripts/install/disk-monitor.sh)"
 ```
 
 ### Uninstall
